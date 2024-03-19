@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Mastering Microsoft Dynamics 365 Business Central*](https://www.link.springer.com/book/10.1007/979-8-8688-0230-0) by Dr. S. Gomathi (Apress, 2024).
+This repository accompanies [*Mastering Microsoft Dynamics 365 Business Central*](https://link.springer.com/book/9798868802294) by Dr. S. Gomathi (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](9798868802294_CoverFigure.jpg)
